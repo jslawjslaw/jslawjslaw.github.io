@@ -421,3 +421,21 @@ body {
   display: flex;
   justify-content: center;
 }
+
+.image-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.desc-link-container {
+  padding: 0 10px;
+}
+
+.project-desc {
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.link-cont {
+  text-align: center;
+}
