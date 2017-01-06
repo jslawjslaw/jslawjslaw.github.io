@@ -439,3 +439,14 @@ body {
 .link-cont {
   text-align: center;
 }
+
+.education {
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  display: inline;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+#img {
+  margin-left: 150px;
+}
