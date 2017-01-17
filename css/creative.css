@@ -442,11 +442,10 @@ body {
 
 .education {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
-  display: inline;
   font-size: 20px;
   margin-left: 20px;
 }
 
 #img {
-  margin-left: 150px;
+  margin-left: 8px;
 }
